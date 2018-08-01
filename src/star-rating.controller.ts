@@ -18,7 +18,7 @@ export class StarRatingController implements ng.IComponentController, IStarRatin
 
     static DefaultClassFilled: string = "default-star-filled-icon";
 
-    static DefaultNumOfStars: number = 5;
+    static DefaultNumOfStars: number = 10;
 
     static DefaultShowHoverStars:boolean = false;
 
